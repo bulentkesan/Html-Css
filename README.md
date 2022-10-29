@@ -8,5 +8,5 @@ Latest HTML and CSS features used.
 
 <h2> SCREEN GİF </h2>
 
-1[](Screen.gif)
+![](Screen.gif)
 
